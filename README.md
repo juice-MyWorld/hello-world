@@ -1,2 +1,1 @@
-I removed the orginal line 
-Lets make this change to see what I remember 
+Lets try to learn git again! This is something I should know by now. 
